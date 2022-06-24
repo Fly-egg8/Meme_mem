@@ -1,0 +1,39 @@
+.iner{
+	width: 400px;
+	height: 400px;
+}
+
+.iner img {
+	width: inherit;
+	height: inherit;
+}
+
+.container{
+	background-color: black;
+	display: flex;
+	flex-direction:row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: center;
+}
+
+#q1{
+	background-color: green;
+}
+
+#q2{
+	background-color: red;
+}
+
+#q3{
+	background-color: blue;	
+}
+
+h1{
+	text-align: center;	
+}
+a{
+color: pink
+
+ 	
+}
